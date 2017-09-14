@@ -1,0 +1,6 @@
+lista = [x for x in range(300)]
+x = input("Digite um numero:")
+if x < 300:
+    print x,"numero desejado"
+if x > 300:
+    print x,"Fora dos padroes"
